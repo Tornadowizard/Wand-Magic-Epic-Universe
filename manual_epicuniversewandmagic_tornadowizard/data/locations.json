@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Performed all Magic!",
+    "victory": true,
+    "category": ["VICTORY"],
+    "requires": "|Chez Cosmé| AND |Le Serpent Volant| AND |Les Valises Maroquinerie| AND |Mauricio Meurice| AND |Bar Moonshine| AND |Pharmacie Branchiflore| AND |Les Lumières Maroquinerie| AND |Les Instruments Larusso| AND |Librairie Magillard| AND |Fontaine de la Rue Malabête| AND |Chez Flamel| AND |Monsieur Sanfins| AND |Les Bijous de Jacqueline|"
+  },
+  {
+    "name": "Les Bijous de Jacqueline - Lumos",
+    "category": ["Jewlery Covered Niffler"],
+    "requires": "|Les Bijous de Jacqueline|"
+  },
+  {
+    "name": "Monsieur Sanfins - Incendio",
+    "category": ["Cauldrons"],
+    "requires": "|Monsieur Sanfins|"
+  },
+  {
+    "name": "Chez Flamel - Specialis Revelio",
+    "category": ["House of Nicolas Flamel"],
+    "requires": "|Chez Flamel|"
+  },
+  {
+    "name": "Chez Flamel - Aberto",
+    "category": ["House of Nicolas Flamel"],
+    "requires": "|Chez Flamel|"
+  },
+  {
+    "name": "Fontaine de la Rue Malabête - Accio",
+    "category": ["Fountain"],
+    "requires": "|Fontaine de la Rue Malabête|"
+  },
+  {
+    "name": "Librairie Magillard - Revelio",
+    "category": ["Library"],
+    "requires": "|Librairie Magillard|"
+  },
+  {
+    "name": "Librairie Magillard - Incendio",
+    "category": ["Library"],
+    "requires": "|Librairie Magillard|"
+  },
+  {
+    "name": "Librairie Magillard - Wingardium Leviosa",
+    "category": ["Library"],
+    "requires": "|Librairie Magillard|"
+  },
+  {
+    "name": "Librairie Magillard - Expelliarmus",
+    "category": ["Library"],
+    "requires": "|Librairie Magillard|"
+  },
+  {
+    "name": "Librairie Magillard - Aberto",
+    "category": ["Library"],
+    "requires": "|Librairie Magillard|"
+  },
+  {
+    "name": "Les Instruments Larusso - Locomotor Instruments",
+    "category": ["Instrument Shop"],
+    "requires": "|Les Instruments Larusso|"
+  },
+  {
+    "name": "Les Lumières Maroquinerie - Titillando",
+    "category": ["Niffler in the Chandelier"],
+    "requires": "|Les Lumières Maroquinerie|"
+  },
+  {
+    "name": "Pharmacie Branchiflore - Revelio",
+    "category": ["Potions Shop"],
+    "requires": "|Pharmacie Branchiflore|"
+  },
+  {
+    "name": "Bar Moonshine - Revelio",
+    "category": ["Bar Moonshine"],
+    "requires": "|Bar Moonshine|"
+  },
+  {
+    "name": "Mauricio Meurice - Rennervate",
+    "category": ["Tailor Shop"],
+    "requires": "|Mauricio Meurice|"
+  },
+  {
+    "name": "Les Valises Maroquinerie - Descendo",
+    "category": ["Case Shop"],
+    "requires": "|Les Valises Maroquinerie|"
+  },
+  {
+    "name": "Le Serpent Volant - Ventus",
+    "category": ["Kite Shop"],
+    "requires": "|Le Serpent Volant|"
+  },
+  {
+    "name": "Chez Cosmé - Lumos Maxima",
+    "category": ["Wand Shop"],
+    "requires": "|Chez Cosmé|"
+  }
+]

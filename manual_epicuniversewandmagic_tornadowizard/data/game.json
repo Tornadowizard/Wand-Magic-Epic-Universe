@@ -1,0 +1,33 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "EpicUniverseWandMagic",
+  "creator": "tornadowizard",
+  "filler_item_name": "filler",
+  "starting_items": [
+    {
+      "items": [
+	"Wand"
+      ],
+	"random": 1
+    },
+    {
+      "items": [
+	"Les Bijous de Jacqueline",
+        "Monsieur Sanfins",
+        "Chez Flamel",
+        "Fontaine de la Rue Malabête",
+        "Librairie Magillard",
+        "Les Instruments Larusso",
+        "Les Lumières Maroquinerie",
+        "Pharmacie Branchiflore",
+        "Bar Moonshine",
+        "Mauricio Meurice",
+        "Les Valises Maroquinerie",
+        "Le Serpent Volant",
+        "Chez Cosmé"
+      ],
+	"random": 1
+    }
+  ],
+ "death_link": false
+}

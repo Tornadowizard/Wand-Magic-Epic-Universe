@@ -1,0 +1,114 @@
+[
+  {
+    "count": 1,
+    "name": "Wand",
+    "category": [
+      "Wand"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Les Bijous de Jacqueline",
+    "category": [
+      "Jewlery Covered Niffler"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Monsieur Sanfins",
+    "category": [
+      "Cauldrons"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Chez Flamel",
+    "category": [
+      "House of Nicolas Flamel"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Fontaine de la Rue Malabête",
+    "category": [
+      "Fountain"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Librairie Magillard",
+    "category": [
+      "Library"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Les Instruments Larusso",
+    "category": [
+      "Instrument Shop"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Les Lumières Maroquinerie",
+    "category": [
+      "Niffler in the Chandelier"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Pharmacie Branchiflore",
+    "category": [
+      "Potions Shop"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Bar Moonshine",
+    "category": [
+      "Bar Moonshine"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Mauricio Meurice",
+    "category": [
+      "Tailor Shop"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Les Valises Maroquinerie",
+    "category": [
+      "Case Shop"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Le Serpent Volant",
+    "category": [
+      "Kite Shop"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Chez Cosmé",
+    "category": [
+      "Wand Shop"
+    ],
+    "progression": true
+  }
+]
